@@ -30,4 +30,9 @@ tetris.exe
 
 ## Screenshots
 
-![Screenshot 2021-04-30 104009](https://user-images.githubusercontent.com/44812192/116668176-4f060700-a9b2-11eb-8096-c6ef130c8436.png)
+Game            |  EndGame
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/44812192/116672932-fd607b00-a9b7-11eb-8600-ade4ba7d6701.png)  |  ![](https://user-images.githubusercontent.com/44812192/116668176-4f060700-a9b2-11eb-8096-c6ef130c8436.png)
+
+
+
