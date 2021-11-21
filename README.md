@@ -7,6 +7,11 @@ Tetris (Тетрис) is a tile-matching video game created by Russian software 
 
 In this project I have rewritten this nostalgic game in Assembly 8086 language.
 
+### Built With
+
+* [Assembly 8086](https://yjdoc2.github.io/8086-emulator-web/)
+* ❤️
+
 ## How to run
 
 1- Compile the code via [EMU8086](https://emu8086-microprocessor-emulator.en.softonic.com/download) to produce .exe file (You can skip this step by using the existing .exe file in Repository's Releases section)
