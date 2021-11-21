@@ -49,4 +49,4 @@ Don't forget to give the project a star ;)
 
 Feel free to contact me if there is any problem. 
 
-Your Name - [@mkh2097](https://twitter.com/mkh2097) - mkh2097@gmail.com
+[@mkh2097](https://twitter.com/mkh2097) - mkh2097@gmail.com
