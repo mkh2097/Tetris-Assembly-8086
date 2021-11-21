@@ -40,4 +40,13 @@ Game            |  EndGame
 ![](https://user-images.githubusercontent.com/44812192/116672932-fd607b00-a9b7-11eb-8600-ade4ba7d6701.png)  |  ![](https://user-images.githubusercontent.com/44812192/116668176-4f060700-a9b2-11eb-8096-c6ef130c8436.png)
 
 
+## Contributing
 
+If you have a suggestion that would make this game better, I would appreciate you to fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star ;)
+
+## Contact
+
+Feel free to contact me if there is any problem. 
+
+Your Name - [@mkh2097](https://twitter.com/mkh2097) - mkh2097@gmail.com
