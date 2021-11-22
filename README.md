@@ -47,6 +47,6 @@ Don't forget to give the project a star ;)
 
 ## Contact
 
-Feel free to contact me if there is any problem. 
+Feel free to contact me if there is any question or problem. 
 
 [@mkh2097](https://twitter.com/mkh2097) - mkh2097@gmail.com
